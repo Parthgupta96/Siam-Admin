@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "938483124503",
+    "firebase_url": "https://siam-2k17-app.firebaseio.com",
+    "project_id": "siam-2k17-app",
+    "storage_bucket": "siam-2k17-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938483124503:android:bca2a234ad2e6bce",
+        "android_client_info": {
+          "package_name": "com.example.parth.siam_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938483124503-suii3lbunv8955c9gat8b522avfubaen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parth.siam_admin",
+            "certificate_hash": "5542c831b08a7a83758e0116d0c81ec9aa61d8d0"
+          }
+        },
+        {
+          "client_id": "938483124503-3sgm9tfm4vjlkprnroomuqjm9akfo5of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE2eWIRARTv93NW7BGRcKn70SsQzLtSP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938483124503-3sgm9tfm4vjlkprnroomuqjm9akfo5of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938483124503:android:3b1b9ab6d71a46e8",
+        "android_client_info": {
+          "package_name": "in.siamdtu.parth.siamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938483124503-g4i645n42iuqs80f4ml8f8g0evcb0pco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.siamdtu.parth.siamapp",
+            "certificate_hash": "2abcf47b46386289f8f24c97ff70473bc4443813"
+          }
+        },
+        {
+          "client_id": "938483124503-ag2vu7lbsuiqtiaa6gqb3no1hmfgpsog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.siamdtu.parth.siamapp",
+            "certificate_hash": "5542c831b08a7a83758e0116d0c81ec9aa61d8d0"
+          }
+        },
+        {
+          "client_id": "938483124503-3sgm9tfm4vjlkprnroomuqjm9akfo5of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE2eWIRARTv93NW7BGRcKn70SsQzLtSP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938483124503-3sgm9tfm4vjlkprnroomuqjm9akfo5of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

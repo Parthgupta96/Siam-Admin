@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Siam-Admin</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No intenet connection</string>
+    <string name="unknown_error">Unknown errror</string>
+    <string name="unknown_sign_in_response">Unknown Sign in response</string>
+</resources>
